@@ -1,2 +1,2 @@
 # Optimizing-Agricultural-Production-shubham
-The goal of the project is to predict which customers are likely to leave a company (churn) and identify the factors that contribute to churn.
+The goal of the project is to optimize agricultural production using machine learning techniques
